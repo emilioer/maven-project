@@ -1,5 +1,5 @@
 /**
- * file for java doc
+ * file for java doc.
  */
 package com.example;
 
